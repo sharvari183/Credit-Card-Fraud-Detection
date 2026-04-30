@@ -1,0 +1,14 @@
+Credit Card Fraud Detection Model
+
+Algorithm Used: Logistic Regression
+
+Problem Type: Binary Classification
+
+Output:
+0 → Normal Transaction
+1 → Fraud Transaction
+
+Evaluation Metrics:
+- Accuracy
+- Confusion Matrix
+- Precision, Recall, F1-score
