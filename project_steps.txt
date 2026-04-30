@@ -1,0 +1,10 @@
+Steps followed:
+
+1. Loaded dataset
+2. Checked data imbalance
+3. Split data into train and test
+4. Scaled features
+5. Applied SMOTE for imbalance
+6. Trained Logistic Regression model
+7. Predicted results
+8. Evaluated performance
